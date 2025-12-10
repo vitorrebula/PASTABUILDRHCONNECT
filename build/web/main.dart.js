@@ -88596,7 +88596,7 @@ jT(){var s=this
 return A.am(["name",s.a,"email",s.b,"password",s.c,"role",s.d],t.N,t.z)}}
 A.kz.prototype={}
 A.oQ.prototype={
-a8(){return new A.RG(new A.qg(A.tZ(A.tn("https://abu-supplements-licensing-visits.trycloudflare.com/medicals"))),A.b([],t.UN),null,null)}}
+a8(){return new A.RG(new A.qg(A.tZ(A.tn("https://vacuum-cheats-delays-shorts.trycloudflare.com//medicals"))),A.b([],t.UN),null,null)}}
 A.RG.prototype={
 ai(){var s,r,q=this,p=null
 q.az()
@@ -88934,7 +88934,7 @@ if(r!=null)r.H(s.gc1())
 s.a9$=null
 s.ao()}}
 A.q0.prototype={
-a8(){return new A.Ur(new A.qg(A.tZ(A.tn("https://abu-supplements-licensing-visits.trycloudflare.com/medicals"))),A.b([],t.UN),null,null)}}
+a8(){return new A.Ur(new A.qg(A.tZ(A.tn("https://vacuum-cheats-delays-shorts.trycloudflare.com//medicals"))),A.b([],t.UN),null,null)}}
 A.Ur.prototype={
 ai(){var s,r,q=this,p=null
 q.az()
@@ -89293,7 +89293,7 @@ if(r!=null)r.H(s.gc1())
 s.a9$=null
 s.ao()}}
 A.q4.prototype={
-a8(){return new A.UA(new A.qg(A.tZ(A.tn("https://abu-supplements-licensing-visits.trycloudflare.com/medicals"))),A.b([],t.UN),null,null)}}
+a8(){return new A.UA(new A.qg(A.tZ(A.tn("https://vacuum-cheats-delays-shorts.trycloudflare.com//medicals"))),A.b([],t.UN),null,null)}}
 A.UA.prototype={
 ai(){var s,r,q=this,p=null
 q.az()
@@ -90512,7 +90512,7 @@ if(r!=null)r.H(s.gc1())
 s.a9$=null
 s.ao()}}
 A.rb.prototype={
-a8(){return new A.H7(new A.eP(B.bk,$.aq()),new A.qg(A.tZ(A.tn("https://abu-supplements-licensing-visits.trycloudflare.com/medicals"))),null,null)}}
+a8(){return new A.H7(new A.eP(B.bk,$.aq()),new A.qg(A.tZ(A.tn("https://vacuum-cheats-delays-shorts.trycloudflare.com//medicals"))),null,null)}}
 A.H7.prototype={
 ai(){var s,r,q,p=this,o=null
 p.az()
@@ -90708,7 +90708,7 @@ break}k=n.f
 if(k.a.a.length===0){n.yx("Informe os dias de afastamento",!0)
 s=1
 break}n.T(new A.auo(n))
-m=new A.qg(A.tZ(A.tn("https://abu-supplements-licensing-visits.trycloudflare.com/medicals")))
+m=new A.qg(A.tZ(A.tn("https://vacuum-cheats-delays-shorts.trycloudflare.com//medicals")))
 p=4
 j=n.a.c
 k=A.eU(k.a.a,null)
@@ -90816,7 +90816,7 @@ s.a9$=null
 s.ao()}}
 A.pl.prototype={
 a8(){var s=$.aq()
-return new A.EY(new A.eP(B.bk,s),new A.eP(B.bk,s),new A.eP(B.bk,s),new A.eP(B.bk,s),new A.ajI(A.tZ(A.tn("https://abu-supplements-licensing-visits.trycloudflare.com"))),null,null)}}
+return new A.EY(new A.eP(B.bk,s),new A.eP(B.bk,s),new A.eP(B.bk,s),new A.eP(B.bk,s),new A.ajI(A.tZ(A.tn("https://vacuum-cheats-delays-shorts.trycloudflare.com/"))),null,null)}}
 A.EY.prototype={
 ai(){var s,r=this,q=null
 r.az()
@@ -90927,7 +90927,7 @@ A.JG.prototype={
 BZ(a){return this.au6(a)},
 au6(a){var s=0,r=A.w(t.t6),q,p,o,n
 var $async$BZ=A.x(function(b,c){if(b===1)return A.t(c,r)
-for(;;)switch(s){case 0:o=A.dc("https://abu-supplements-licensing-visits.trycloudflare.com/users",0,null)
+for(;;)switch(s){case 0:o=A.dc("https://vacuum-cheats-delays-shorts.trycloudflare.com//users",0,null)
 n=t.N
 n=A.am(["Content-Type","application/json"],n,n)
 s=3
@@ -90946,7 +90946,7 @@ return A.v($async$BZ,r)},
 lW(a){return this.au4(a)},
 au4(a){var s=0,r=A.w(t.y),q,p,o
 var $async$lW=A.x(function(b,c){if(b===1)return A.t(c,r)
-for(;;)switch(s){case 0:p=A.dc("https://abu-supplements-licensing-visits.trycloudflare.com/points/register",0,null)
+for(;;)switch(s){case 0:p=A.dc("https://vacuum-cheats-delays-shorts.trycloudflare.com//points/register",0,null)
 o=t.N
 o=A.am(["Content-Type","application/json"],o,o)
 s=3
@@ -90963,7 +90963,7 @@ arQ(a,b){var s=0,r=A.w(t.y),q,p,o,n,m
 var $async$oW=A.x(function(c,d){if(c===1)return A.t(d,r)
 for(;;)switch(s){case 0:n=t.N
 s=3
-return A.B(A.J8(A.dc("https://abu-supplements-licensing-visits.trycloudflare.com/auth/login",0,null),B.aq.kt(A.am(["email",a,"password",b],n,n),null),A.am(["Content-Type","application/json"],n,n)),$async$oW)
+return A.B(A.J8(A.dc("https://vacuum-cheats-delays-shorts.trycloudflare.com//auth/login",0,null),B.aq.kt(A.am(["email",a,"password",b],n,n),null),A.am(["Content-Type","application/json"],n,n)),$async$oW)
 case 3:m=d
 n=m.b
 s=n===201||n===200?4:5
@@ -91008,7 +91008,7 @@ auw(a,b,c,d){var s=0,r=A.w(t.y),q,p,o,n,m
 var $async$C3=A.x(function(e,f){if(e===1)return A.t(f,r)
 for(;;)switch(s){case 0:o=t.N
 n=A.am(["userId",d,"startDate",c.Cd().rJ(),"endDate",a.Cd().rJ(),"motivo",b],o,t.ob)
-m=A.dc("https://abu-supplements-licensing-visits.trycloudflare.com/dayOffs/request",0,null)
+m=A.dc("https://vacuum-cheats-delays-shorts.trycloudflare.com//dayOffs/request",0,null)
 o=A.am(["Content-Type","application/json"],o,o)
 s=3
 return A.B(A.J8(m,B.aq.kt(n,null),o),$async$C3)
@@ -91026,7 +91026,7 @@ wo(a){return this.a_p(a)},
 a_p(a){var s=0,r=A.w(t.H1),q,p
 var $async$wo=A.x(function(b,c){if(b===1)return A.t(c,r)
 for(;;)switch(s){case 0:s=3
-return A.B(A.a_u(A.dc("https://abu-supplements-licensing-visits.trycloudflare.com/dayOffs/user/"+A.ot(2,a,B.aa,!1),0,null)),$async$wo)
+return A.B(A.a_u(A.dc("https://vacuum-cheats-delays-shorts.trycloudflare.com//dayOffs/user/"+A.ot(2,a,B.aa,!1),0,null)),$async$wo)
 case 3:p=c
 if(p.b!==200){q=A.b([],t.J5)
 s=1
@@ -91038,7 +91038,7 @@ return A.v($async$wo,r)},
 ey(){var s=0,r=A.w(t.H1),q,p
 var $async$ey=A.x(function(a,b){if(a===1)return A.t(b,r)
 for(;;)switch(s){case 0:s=3
-return A.B(A.a_u(A.dc("https://abu-supplements-licensing-visits.trycloudflare.com/dayOffs",0,null)),$async$ey)
+return A.B(A.a_u(A.dc("https://vacuum-cheats-delays-shorts.trycloudflare.com//dayOffs",0,null)),$async$ey)
 case 3:p=b
 if(p.b!==200){q=A.b([],t.J5)
 s=1
@@ -91052,7 +91052,7 @@ avl(a,b,c){var s=0,r=A.w(t.y),q,p,o,n,m
 var $async$Cp=A.x(function(d,e){if(d===1)return A.t(e,r)
 for(;;)switch(s){case 0:o=t.N
 n=A.am(["dayOffId",b,"gestorId",a,"status",c],o,o)
-m=A.dc("https://abu-supplements-licensing-visits.trycloudflare.com/dayOffs/status",0,null)
+m=A.dc("https://vacuum-cheats-delays-shorts.trycloudflare.com//dayOffs/status",0,null)
 o=A.am(["Content-Type","application/json"],o,o)
 s=3
 return A.B(A.aIN(m,B.aq.kt(n,null),o),$async$Cp)
@@ -91134,7 +91134,7 @@ ws(a){return this.a_x(a)},
 a_x(a){var s=0,r=A.w(t.j),q,p=this
 var $async$ws=A.x(function(b,c){if(b===1)return A.t(c,r)
 for(;;)switch(s){case 0:s=3
-return A.B(p.a.Cx("https://abu-supplements-licensing-visits.trycloudflare.com/notifications/"+a,t.z),$async$ws)
+return A.B(p.a.Cx("https://vacuum-cheats-delays-shorts.trycloudflare.com//notifications/"+a,t.z),$async$ws)
 case 3:q=c.a
 s=1
 break
@@ -91145,7 +91145,7 @@ wu(a){return this.a_D(a)},
 a_D(a){var s=0,r=A.w(t.dq),q,p,o
 var $async$wu=A.x(function(b,c){if(b===1)return A.t(c,r)
 for(;;)switch(s){case 0:s=3
-return A.B(A.a_u(A.dc("https://abu-supplements-licensing-visits.trycloudflare.com/points/user/"+a,0,null)),$async$wu)
+return A.B(A.a_u(A.dc("https://vacuum-cheats-delays-shorts.trycloudflare.com//points/user/"+a,0,null)),$async$wu)
 case 3:o=c
 if(o.b!==200)throw A.i(A.dQ("Erro ao buscar pontos"))
 p=J.kS(B.aq.mS(A.jy(A.jx(o.e)).d3(o.w),null),new A.adw(),t.w1)
@@ -91158,7 +91158,7 @@ return A.v($async$wu,r)},
 lW(a){return this.au5(a)},
 au5(a){var s=0,r=A.w(t.y),q,p,o
 var $async$lW=A.x(function(b,c){if(b===1)return A.t(c,r)
-for(;;)switch(s){case 0:p=A.dc("https://abu-supplements-licensing-visits.trycloudflare.com/points/register",0,null)
+for(;;)switch(s){case 0:p=A.dc("https://vacuum-cheats-delays-shorts.trycloudflare.com//points/register",0,null)
 o=t.N
 o=A.am(["Content-Type","application/json"],o,o)
 s=3
@@ -91207,7 +91207,7 @@ auy(a,b,c){var s=0,r=A.w(t.y),q,p,o,n,m
 var $async$C5=A.x(function(d,e){if(d===1)return A.t(e,r)
 for(;;)switch(s){case 0:o=t.N
 n=A.am(["userId",c,"startDate",b.Cd().rJ(),"endDate",a.Cd().rJ()],o,o)
-m=A.dc("https://abu-supplements-licensing-visits.trycloudflare.com/vacations/request",0,null)
+m=A.dc("https://vacuum-cheats-delays-shorts.trycloudflare.com//vacations/request",0,null)
 o=A.am(["Content-Type","application/json"],o,o)
 s=3
 return A.B(A.J8(m,B.aq.kt(n,null),o),$async$C5)
@@ -91225,7 +91225,7 @@ wy(a){return this.a_N(a)},
 a_N(a){var s=0,r=A.w(t.FQ),q,p
 var $async$wy=A.x(function(b,c){if(b===1)return A.t(c,r)
 for(;;)switch(s){case 0:s=3
-return A.B(A.a_u(A.dc("https://abu-supplements-licensing-visits.trycloudflare.com/vacations/user/"+A.ot(2,a,B.aa,!1),0,null)),$async$wy)
+return A.B(A.a_u(A.dc("https://vacuum-cheats-delays-shorts.trycloudflare.com//vacations/user/"+A.ot(2,a,B.aa,!1),0,null)),$async$wy)
 case 3:p=c
 if(p.b!==200){q=A.b([],t.gs)
 s=1
@@ -91237,7 +91237,7 @@ return A.v($async$wy,r)},
 rV(){var s=0,r=A.w(t.FQ),q,p
 var $async$rV=A.x(function(a,b){if(a===1)return A.t(b,r)
 for(;;)switch(s){case 0:s=3
-return A.B(A.a_u(A.dc("https://abu-supplements-licensing-visits.trycloudflare.com/vacations",0,null)),$async$rV)
+return A.B(A.a_u(A.dc("https://vacuum-cheats-delays-shorts.trycloudflare.com//vacations",0,null)),$async$rV)
 case 3:p=b
 if(p.b!==200){q=A.b([],t.gs)
 s=1
@@ -91251,7 +91251,7 @@ avn(a,b){var s=0,r=A.w(t.y),q,p,o,n,m
 var $async$Co=A.x(function(c,d){if(c===1)return A.t(d,r)
 for(;;)switch(s){case 0:o=t.N
 n=A.am(["vacationId",a,"status",b],o,o)
-m=A.dc("https://abu-supplements-licensing-visits.trycloudflare.com/vacations/status",0,null)
+m=A.dc("https://vacuum-cheats-delays-shorts.trycloudflare.com//vacations/status",0,null)
 o=A.am(["Content-Type","application/json"],o,o)
 s=3
 return A.B(A.aIN(m,B.aq.kt(n,null),o),$async$Co)
